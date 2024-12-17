@@ -2,6 +2,14 @@
 
 This project predicts students' **math, reading, and writing scores** based on various features such as **gender**, **lunch type**, **test preparation course**, and **parental education level** using **linear regression** and other machine learning models.
 
+![Alt text](images/fig3.png")
+
+
+![Alt text](images/fig2.png")
+
+
+![Alt text](images/fig1.png")
+
 ## Dataset
 
 The dataset contains information on student performance across three subjects:
